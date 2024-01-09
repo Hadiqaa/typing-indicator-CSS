@@ -1,2 +1,5 @@
-# typing-indicator-CSS
-This repository contains a simple HTML, CSS, and JavaScript implementation of a typing indicator for an input field. The typing indicator features a Facebook-style animation, where three dots blink consecutively.
+Clone the repository to your local machine.
+Open the index.html file in a web browser.
+
+
+And Go wild with the input field! Adjust the width, add some borders, make it scream your aesthetic desires.
